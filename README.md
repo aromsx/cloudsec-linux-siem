@@ -43,6 +43,22 @@ This project was designed to simulate a real-world Security Operations Center (S
 
 ---
 
+## Dashboard Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.jpg)
+
+### Threat Hunting
+![Threat Hunting Page]('threat hunting page.jpg')
+
+### Vulnerability
+![Vulnerbility Page](vulnerability.jpg)
+
+### MITRE ATT&CK
+![MITRE ATT&CK PAGE](MITRE.jpg)
+
+---
+
 ## Simulated Security Events
 
 The following attack simulations were performed inside the lab environment:
