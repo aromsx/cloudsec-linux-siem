@@ -49,13 +49,13 @@ This project was designed to simulate a real-world Security Operations Center (S
 ![Homepage](screenshots/homepage.jpg)
 
 ### Threat Hunting
-![Threat Hunting Page]('threat hunting page.jpg')
+![Threat Hunting Page](screenshots/threat-hunting-page.jpg)
 
 ### Vulnerability
-![Vulnerbility Page](vulnerability.jpg)
+![Vulnerbility Page](screenshots/vulnerability-page.jpg)
 
 ### MITRE ATT&CK
-![MITRE ATT&CK PAGE](MITRE.jpg)
+![MITRE ATT&CK PAGE](screenshots/mitre-attack-page.jpg)
 
 ---
 
