@@ -39,7 +39,7 @@ This project was designed to simulate a real-world Security Operations Center (S
 
 ## Architecture
 
-Architecture diagram coming soon.
+![Architecture Diagram](architecture/cloud-siem.png)
 
 ---
 
